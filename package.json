@@ -1,0 +1,21 @@
+{
+  "name": "hexodocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobens/hexodocs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobens/hexodocs/issues"
+  },
+  "homepage": "https://github.com/kobens/hexodocs#readme",
+  "devDependencies": {}
+}
